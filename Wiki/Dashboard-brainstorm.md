@@ -1,0 +1,1 @@
+![thumbnail_IMG_8681.jpg](/.attachments/thumbnail_IMG_8681-d4093aae-96f0-4a98-9d72-4fb06ef990c5.jpg)![thumbnail_IMG_8682.jpg](/.attachments/thumbnail_IMG_8682-e8534070-4d51-4bb7-8f87-0c780a9b9ffa.jpg)

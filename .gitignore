@@ -1,0 +1,4 @@
+# temp files
+*.png.bkp
+*.drawio.bkp
+.DS_Store
