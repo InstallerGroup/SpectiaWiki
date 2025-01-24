@@ -2,3 +2,4 @@
 *.png.bkp
 *.drawio.bkp
 .DS_Store
+.env
