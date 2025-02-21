@@ -40,6 +40,20 @@ PROD = Spectia - B2C Production
 5. Upload custom policy {Environment}/{policy-file}.xml
 6. Test changes by selecting B2C_1A_SIGNIN > Run Now.
 
+##Environment:
+
+### Dev:
+Public url: https://stspectiadevpublic.z6.web.core.windows.net/sign-in.html
+Storage Account: [stspectiadevpublic](https://portal.azure.com/#@ProcureESG.onmicrosoft.com/resource/subscriptions/eb9f72b4-f6f8-4e92-9ba5-650205c83a81/resourceGroups/rg-spectia-dev/providers/Microsoft.Storage/storageAccounts/stspectiadevpublic)
+
+### Uat:
+Public url: https://stspectiauatpublic.z6.web.core.windows.net/sign-in.html
+Storage Account: [stspectiauatpublic](https://portal.azure.com/#@ProcureESG.onmicrosoft.com/resource/subscriptions/eb9f72b4-f6f8-4e92-9ba5-650205c83a81/resourceGroups/rg-spectia-uat/providers/Microsoft.Storage/storageAccounts/stspectiauatpublic)
+
+### Prod:
+Public url: https://stspectiaprdpublic.z6.web.core.windows.net/sign-in.html
+Storage Account: [stspectiaprdpublic](https://portal.azure.com/#@ProcureESG.onmicrosoft.com/resource/subscriptions/eb9f72b4-f6f8-4e92-9ba5-650205c83a81/resourceGroups/rg-spectia-uat/providers/Microsoft.Storage/storageAccounts/stspectiaprdpublic)
+
 Link to azure storage accounts: [Storage accounts - Microsoft Azure](https://portal.azure.com/#browse/Microsoft.Storage%2FStorageAccounts)
 
 
